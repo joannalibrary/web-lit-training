@@ -2,7 +2,7 @@
 ## Sharing Your Work with Github!
 
 ## I've created this repo as part of Mozilla's web literacy training. [Here is a fennec fox.](https://upload.wikimedia.org/wikipedia/commons/b/bd/10_Month_Old_Fennec_Fox.jpg)
-![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiTsabesqvOAhUm6oMKHRF3CckQjBwIBA&url=http%3A%2F%2Fwww.pets4homes.co.uk%2Fimages%2Farticles%2F1904%2Flarge%2Fcan-you-keep-a-fennec-fox-in-the-uk-as-a-pet-53cf959ca2ed9.jpg&psig=AFQjCNHy2g5Kl_5DEYmzlba732FmmfWByg&ust=1470524835260130 "Fennec fox")
+![Fennec fox](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiTsabesqvOAhUm6oMKHRF3CckQjBwIBA&url=http%3A%2F%2Fwww.pets4homes.co.uk%2Fimages%2Farticles%2F1904%2Flarge%2Fcan-you-keep-a-fennec-fox-in-the-uk-as-a-pet-53cf959ca2ed9.jpg&psig=AFQjCNHy2g5Kl_5DEYmzlba732FmmfWByg&ust=1470524835260130 "Fennec fox")
 
 
 This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training.
