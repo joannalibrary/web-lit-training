@@ -1,7 +1,7 @@
 # Mozilla Web Literacy Training
 ## Sharing Your Work with Github!
 
-## I've created this repo as part of Mozilla's web literacy training. **WHEEEEE!**
+## I've created this repo as part of Mozilla's web literacy training. [Here is a fennec fox.](https://upload.wikimedia.org/wikipedia/commons/b/bd/10_Month_Old_Fennec_Fox.jpg)
 
 This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training.
 
